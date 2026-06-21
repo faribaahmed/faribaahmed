@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Fariba 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Student+%7C+Exploring+new+ideas+%F0%9F%92%A1;Crafting+them+into+something+meaningful+%F0%9F%8D%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Student+%7C+Exploring+new+ideas+%F0%9F%92%A1; Crafting+them+into+something+meaningful+%F0%9F%8D%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
