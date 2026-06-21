@@ -14,8 +14,6 @@
 - 🔭 Currently building fun little projects 
 - 🌱 Sharpening my Python fundamentals
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" width="100%" />
-
 ### 🛠️ Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
