@@ -24,8 +24,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faribaahmed&show_icons=true&theme=tokyonight&hide_border=true&hide=prs,contribs&show=reviews,discussions_started" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faribaahmed&theme=tokyonight&hide_border=true&hide=currentStreak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=faribaahmed&show_icons=true&theme=tokyonight&hide_border=true&hide=prs,issues,discussions" width="55%" />
 </p>
 
 <p align="center">
