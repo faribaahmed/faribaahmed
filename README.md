@@ -29,15 +29,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faribaahmed&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faribaahmed&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="35%" />
 </p>
 
 ---
 
 <p align="center">🐍🌀 — ★彡★ — 🐍🌀</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faribaahmed/faribaahmed/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faribaahmed/faribaahmed/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/faribaahmed/faribaahmed/output/pacman-contribution-graph-dark.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/faribaahmed/faribaahmed/output/pacman-contribution-graph-dark.svg" width="100%" />
