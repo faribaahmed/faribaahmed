@@ -23,12 +23,12 @@
 </p>
 
 ### 📊 GitHub Stats
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=faribaahmed&show_icons=true&theme=tokyonight&hide_border=true&hide=prs,issues,discussions" width="55%" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faribaahmed&layout=compact&theme=radical&hide_border=true" width="35%" />
+<p align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faribaahmed&layout=pie&theme=tokyonight&hide_border=true" width="35%" />
 </p>
 
 ---
