@@ -22,11 +22,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### 📊 GitHub Stats
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faribaahmed&show_icons=true&theme=tokyonight&hide_border=true&hide=prs,issues,discussions" width="52%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faribaahmed&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="35%" />
-</p>
 ---
 
 <p align="center">🐍🌀 — ★彡★ — 🐍🌀</p>
